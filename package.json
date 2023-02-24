@@ -3,7 +3,7 @@
   "version": "17.0.4",
   "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "start": "node zeeone.js"
    },
