@@ -638,37 +638,20 @@ exports.private = () =>{
 	}
 exports.wait = () => {
     return `⏳ ◤Ｌｏａｄｉｎｇ  ．．．ツ◢. . . . .
-    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈
-    -
-    1. Jangan spam bot. 🙅
-    2. Jangan telepon bot. ☎️
-    3. Jangan membandingkan bot 👍
-    -
-    👤. Bila ada yang di pertanyakan soal fitur dan lain-lainnya pm saya > https://wa.me/6289688206739
-    `
+    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ `
 }
 exports.ok = () => {
     return `👍 S U C C E S. . . . .
-    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈
-    -
-    🗯️ Bot tidak atau lambat merespon ?
-    ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa alasan lain lainnya.
-    -
-    🗯️ Boleh saya menambah ke grup?
-    ➡️ Untuk itu tergantung dari owner bot sendiri
-    -
-    🗯️ Prefixnya apa ya?
-    ➡️ Bot ini menggunakan prefix & bisa kamu gunakan titik . di awal fitur .menu contoh gini .play nah seperti itu kak 😁
-    -
-    ⚠️ Segala kebijakan dan ketentuan bot dapat berubah kapan saja Terimakasih!.
-           `
+    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ `
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `⚠️ Fitur Sedang Error
+    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ Link nya error
+    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
