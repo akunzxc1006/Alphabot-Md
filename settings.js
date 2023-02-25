@@ -29,7 +29,7 @@ global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = true
+global.userRegister = false
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -86,8 +86,8 @@ global.buttonDefault = [{
    }
 }, {
    quickReplyButton: {
-      displayText: 'Owner 👤',
-      id: 'owner'
+      displayText: 'Profile ⚙️',
+      id: '.profile'
    }
 }, {
    quickReplyButton: {
@@ -112,8 +112,8 @@ global.buttonDefault2 = [{
    }
 }, {
    quickReplyButton: {
-      displayText: 'Owner 👤',
-      id: 'owner'
+      displayText: 'Profile ⚙️',
+      id: '.profile'
    }
 }, {
    quickReplyButton: {
