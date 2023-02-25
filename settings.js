@@ -43,7 +43,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "W I L Y - K U N 👤" //namabot kalian
 global.ownername = "B O T - H E N 🔥" //nama kalian
-global.myweb = "https://wa.me/6289688206739?text=Hallo%20kak%20gimana%20kabarmu%20saat%20ini%20🙂%20?%20dan%20juga%20masuk%20dong%20ke%20group%20bot%20saya%20https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT%20" //bebas asal jan hapus
+global.myweb = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas asal jan hapus
 global.youtube = "https://www.facebook.com/wily.kun.1" //bebas asal jan hapus
 global.myweb2 = "https://www.facebook.com/wily.kun.1" //bebas
 global.email = "kunwily1994@gmail.com" //bebas
