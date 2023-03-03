@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "akira",
   "version": "17.0.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "akira",
   "main": "zeeone.js",
   "license": "ISC",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "akira",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",

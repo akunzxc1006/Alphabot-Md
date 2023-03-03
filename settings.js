@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
+global.OpenAIKey = "api" //login to https://beta.openai.com/ to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -26,11 +26,11 @@ edit sewabot di file settings.js line 19
 global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = true // anti delete
-global.antiviewonce = true // anti view once
-global.autobio = true //auto ganti bio
+global.antiviewonce = false // anti view once
+global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
-global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -43,9 +43,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "W I L Y - K U N 👤" //namabot kalian
 global.ownername = "B O T - H E N 🔥" //nama kalian
-global.myweb = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas asal jan hapus
-global.youtube = "https://www.facebook.com/wily.kun.1" //bebas asal jan hapus
-global.myweb2 = "https://www.facebook.com/wily.kun.1" //bebas
+global.myweb = "https://wa.me/6289688206739" //bebas asal jan hapus
+global.youtube = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas asal jan hapus
+global.myweb2 = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas
 global.email = "kunwily1994@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
@@ -71,7 +71,7 @@ global.limitawal = {
 }
 global.buttonDefault = [{
    urlButton: {
-      displayText: 'Facebook Saya ⏪',
+      displayText: 'Group Bot ⏪',
       url: youtube
    }
 }, {
@@ -97,7 +97,7 @@ global.buttonDefault = [{
 }]
 global.buttonDefault2 = [{
    urlButton: {
-      displayText: 'Facebook Saya ⏪',
+      displayText: 'Group Bot ⏪',
       url: youtube
    }
 }, {
