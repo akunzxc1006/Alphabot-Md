@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "api" //login to https://beta.openai.com/ to get apikey
+global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -17,7 +17,7 @@ global.APIs = {
 // beli apikey premium pc wa: 0887435047326
 // beli apikey premium pc wa: 0887435047326
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'Dq4Z6N8K', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'rivanda', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 19
@@ -29,8 +29,8 @@ global.antidelete = true // anti delete
 global.antiviewonce = false // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.userRegister = true
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
