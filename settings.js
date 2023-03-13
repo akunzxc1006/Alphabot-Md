@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "sk-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" //login to https://beta.openai.com/ to get apikey
+global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -20,7 +20,7 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'rivanda', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 19
+Bukan Di Sini Bang :v
 `
 // setting 
 global.firtsChat = true //send firts message to new user
@@ -43,7 +43,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "W I L Y - K U N 👤" //namabot kalian
 global.ownername = "B O T - H E N 🔥" //nama kalian
-global.myweb = "https://wa.me/6289688206739" //bebas asal jan hapus
+global.myweb = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/FihZbq4PU461pNv1IC9InT" //bebas
 global.email = "kunwily1994@gmail.com" //bebas
