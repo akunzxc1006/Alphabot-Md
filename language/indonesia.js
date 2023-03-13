@@ -637,21 +637,17 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ ◤Ｌｏａｄｉｎｇ  ．．．ツ◢. . . . .
-    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ `
+    return `⏳ ◤Ｌｏａｄｉｎｇ  ．．．ツ◢. . . . .`
 }
 exports.ok = () => {
-    return `👍 S U C C E S. . . . .
-    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ `
+    return `👍 S U C C E S. . . . . `
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error
-    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈`
+    return `⚠️ Fitur Sedang Error`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error
-    ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈`
+    return `⚠️ Link nya error`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
