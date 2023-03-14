@@ -2,10 +2,10 @@
   "name": "akira",
   "version": "17.0.4",
   "description": "akira",
-  "main": "zeeone.js",
+  "main": "alpha.js",
   "license": "ISC",
   "scripts": {
-    "start": "node zeeone.js"
+    "start": "node alpha.js"
   },
   "keywords": [
     "whatsapp",
